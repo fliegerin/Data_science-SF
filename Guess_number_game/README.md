@@ -1,17 +1,55 @@
-# Project 0 - Guess the number game
+# Проект 0. Угадай число
 
-## Contents
-[1. Project description] (https://github.com/fliegerin/Data_science-SF/blob/main/README.md#Description)
-[2. The case we are solving] (https://github.com/fliegerin/Data_science-SF/blob/main/README.md#Case)
-[3. Data brief description] (https://github.com/fliegerin/Data_science-SF/blob/main/README.md#Data)
+## Оглавление  
+[1. Описание проекта](.README.md#Описание-проекта)  
+[2. Какой кейс решаем?](.README.md#Какой-кейс-решаем)  
+[3. Краткая информация о данных](.README.md#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](.README.md#Этапы-работы-над-проектом)  
+[5. Результат](.README.md#Результат)    
+[6. Выводы](.README.md#Выводы) 
 
-###Description
-This is a simple guess the number game, in which we try to guess a computer-generated number in the minimum number of attempts
+### Описание проекта    
+Угадать загаданное компьютером число за минимальное число попыток.
 
-:arrow up: [to Contents] (https://github.com/fliegerin/Data_science-SF/blob/main/README.md#Contents)
+:arrow_up:[к оглавлению](_)
 
-###Case
-Write a code that guesses the number in as few goes as possible
-* Computer selects a random number, which we have to guess, meaning write a programme to guess it
-* The algorithm takes into account if the number is bigger or smaller that the one we need
-* The results are estimated as an average over 1000 cycles
+
+### Какой кейс решаем?    
+Нужно написать программу, которая угадывает число за минимальное число попыток
+
+**Условия соревнования:**  
+- Компьютер загадывает целое число от 0 до 100, и нам его нужно угадать. Под «угадать», подразумевается «написать программу, которая угадывает число».
+- Алгоритм учитывает информацию о том, больше ли случайное число или меньше нужного нам.
+
+**Метрика качества**     
+Результаты оцениваются по среднему количеству попыток при 1000 повторений
+
+**Что практикуем**     
+Учимся писать хороший код на python
+
+
+### Краткая информация о данных
+....
+  
+:arrow_up:[к оглавлению](.README.md#Оглавление)
+
+
+### Этапы работы над проектом  
+....
+
+:arrow_up:[к оглавлению](.README.md#Оглавление)
+
+
+### Результаты:  
+....
+
+:arrow_up:[к оглавлению](.README.md#Оглавление)
+
+
+### Выводы:  
+....
+
+:arrow_up:[к оглавлению](.README.md#Оглавление)
+
+
+Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами
